@@ -1,0 +1,18 @@
+total 34K
+-rw-r--r-- 1 k0107 197609 1.9K Oct  4 20:43 202434600_김지윤_lecture_note_5.md
+-rw-r--r-- 1 k0107 197609 2.3K Oct 11 03:09 202434600_김지윤_lecture_note_6.md
+-rw-r--r-- 1 k0107 197609  574 Sep 27 15:05 Lab 4_202434600_김지윤.md
+-rw-r--r-- 1 k0107 197609  19K Sep  5 14:56 Lab1_202434600_김지윤.pdf
+drwxr-xr-x 1 k0107 197609    0 Oct 20 14:39 OSS/
+-rw-r--r-- 1 k0107 197609   89 Oct 20 14:28 README.md
+-rw-r--r-- 1 k0107 197609    0 Oct 20 14:49 file_list.txt
+-rw-r--r-- 1 k0107 197609   10 Oct 20 14:43 hello_word.txt
+total 35K
+-rw-r--r-- 1 k0107 197609 1.9K Oct  4 20:43 202434600_김지윤_lecture_note_5.md
+-rw-r--r-- 1 k0107 197609 2.3K Oct 11 03:09 202434600_김지윤_lecture_note_6.md
+-rw-r--r-- 1 k0107 197609  574 Sep 27 15:05 Lab 4_202434600_김지윤.md
+-rw-r--r-- 1 k0107 197609  19K Sep  5 14:56 Lab1_202434600_김지윤.pdf
+drwxr-xr-x 1 k0107 197609    0 Oct 20 14:39 OSS/
+-rw-r--r-- 1 k0107 197609   89 Oct 20 14:28 README.md
+-rw-r--r-- 1 k0107 197609  540 Oct 20 14:49 file_list.txt
+-rw-r--r-- 1 k0107 197609   10 Oct 20 14:43 hello_word.txt
